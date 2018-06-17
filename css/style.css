@@ -7,3 +7,65 @@
   padding: 10px;
   margin: 0 auto;
 }
+.main-head {
+  height: 74px;
+  background-color: #D773FF;
+  margin-bottom: 12px;
+  background-image: url("../img/head_astro.jpg");
+  background-repeat: repeat-x;
+  font: 20px segoe script;
+  text-align: center;
+  vertical-align: center;
+  padding-top: 3px;
+}
+.sidebar-left {
+  background-image: url("../img/foni2.jpg");
+  margin-bottom: 10px;
+  width: 200px;
+  height: 500px;
+  font: 20px Verdana;
+  float: left;
+  border: 1px solid #2814FF;
+}
+.sidebar-right {
+  width: 250px;
+  float: right;
+  background-image: url("../img/AstroR.png");
+  background-repeat: repeat-y;
+  margin: 0 auto 12px auto;
+}
+.page-footer {
+  height: 83px;
+  background-color: #4B5DFF;
+  margin-top: 30px;
+  margin-bottom: 12px;
+  background-image: url(../img/astrostrip.jpg);
+}
+.main-content {
+  width: 730px;
+  font: 20px Verdana;
+  color: #FFF046;
+  margin: 0 auto 12px auto;
+}
+.main-nav {
+  border: 1px solid #000000;
+  background-image: url("../img/menu.jpg");
+  background-repeat: repeat-x;
+  cursor: pointer;
+}
+.table-date {
+  border: 1px solid #cccccc;
+  text-align: center;
+  width: 500px;
+  border-collapse: collapse;
+  margin: 25px auto;
+  float: center;
+  padding: 10px;
+}
+.main-footer {
+  height: 83px;
+  background-color: #4B5DFF;
+  margin-top: 30px;
+  margin-bottom: 12px;
+  background-image: url("../img/astrostrip.jpg");
+}
