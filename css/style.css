@@ -29,6 +29,11 @@
   vertical-align: center;
   padding-top: 3px;
 }
+.main-head__caption {
+  margin: 0;
+  padding-top: 10px;
+  vertical-align: center;
+}
 .sidebar-left {
   background-image: url("../img/foni2.jpg");
   margin-bottom: 10px;
@@ -97,6 +102,14 @@
   margin: 25px auto;
   float: center;
   padding: 10px;
+}
+.table-date td,
+.table-date th {
+  vertical-align: middle;
+  height: 30px;
+  padding: 5px;
+  border: 1px solid #cccccc;
+  text-align: center;
 }
 .main-footer {
   width: 730px;
