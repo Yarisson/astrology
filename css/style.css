@@ -86,6 +86,8 @@
   background-image: url(../img/menu.jpg);
   background-repeat: repeat-x;
   cursor: pointer;
+  height: 25px;
+  margin: 10px 0;
 }
 .table-date {
   border: 1px solid #cccccc;
